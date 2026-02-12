@@ -36,3 +36,18 @@ I'm a Salesforce Marketing Cloud Architect with 5+ years of experience designing
 🏆 Salesforce Certified Marketing Cloud Administrator  
 🏆 Salesforce Certified Data Cloud Consultant  
 🏆 Salesforce Certified Agentforce Specialist  
+
+### 📈 Experience Highlights
+
+- ✅ Architected SFMC solution for **3 global brands** across **40+ markets**
+- ✅ Managed **10M+ customer records** with optimized data architecture
+- ✅ Built **100+ automated lifecycle journeys** driving **40% engagement improvement**
+- ✅ Achieved **99%+ deliverability** through best practices implementation
+- ✅ Trained and mentored **10+ SFMC specialists** on platform capabilities
+
+### 🎯 Current Focus
+
+- 🔭 Working on: Einstein AI integration patterns for predictive marketing
+- 🌱 Learning: Agentforce capabilities, advanced Data Cloud segmentation
+- 👯 Open to collaborate on: SFMC open-source projects, AMPscript libraries
+- 💬 Ask me about: AMPscript optimization, Journey Builder best practices, SFMC architecture
